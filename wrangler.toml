@@ -5,7 +5,7 @@ main = "src/index.ts"
 
 [vars]
 GITHUB_ACCOUNT = '90mg'
-GITHUB_REPO = 'tauri-update-cloudflare'
+GITHUB_REPO = 'tauri-miser'
 GITHUB_TOKEN = '' # Optional - used with private repos
 
 [build]
